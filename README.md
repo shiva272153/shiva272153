@@ -5,7 +5,6 @@
 # Hey there, I'm Shiva Jaiswal <img width="30" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="Waving Hand">
 
 **Software Engineer &bull; Full-Stack &bull; Applied AI & Cryptography**  
-📍 Greater Noida, India &bull; 🎓 BCA (2026), Galgotias University (CGPA: 7.22)
 
 <p align="center">
   <a href="https://discord.com/users/antonio272153" target="_blank">
@@ -13,9 +12,6 @@
   </a>
   <a href="https://linkedin.com/in/shiva-jaiswal-840b912a3" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:shiva.jaiswal.official@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
@@ -39,7 +35,7 @@ I'm a full-stack software engineer building resilient, scalable web architecture
 
 | Project | Focus / Description | Tech Stack | Links |
 | :--- | :--- | :--- | :---: |
-| **SecureChat** | Zero-knowledge real-time E2EE messaging platform with browser-side hybrid encryption | `Flask` `Socket.IO` `WebCrypto` `MongoDB` | [Live Demo](https://secure-chat-e2e.vercel.app/) &bull; |
+| **SecureChat** | Zero-knowledge real-time E2EE messaging platform with browser-side hybrid encryption | `Flask` `Socket.IO` `WebCrypto` `MongoDB` | [Live](https://secure-chat-e2e.vercel.app/) &bull; |
 | **AI-RSS** | Full-stack recruitment platform with an NLP microservice for semantic candidate matching | `React` `Node.js` `Flask` `scikit-learn` | [Code](https://github.com/shiva272153/AI-RSS) |
 | **MediPredict AI** | Clinical risk prediction engine with standardized preprocessing and model serialization | `Python` `Flask` `scikit-learn` `Pandas` | [Code](https://github.com/shiva272153/MediPredict-AI/) |
 
@@ -62,5 +58,5 @@ I'm a full-stack software engineer building resilient, scalable web architecture
 ---
 
 <div align="center">
-  <sub>Designed & engineered by <b>Shiva Jaiswal</b> &bull; Open for Software Engineering & Full-Stack roles</sub>
+  <sub>Designed & engineered by <b>Shiva Jaiswal</b> &bull; Open for Software Engineering & Full-Stack projects</sub>
 </div>
