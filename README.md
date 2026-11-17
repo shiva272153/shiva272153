@@ -35,7 +35,7 @@ I'm a full-stack software engineer building resilient, scalable web architecture
 
 | Project | Focus / Description | Tech Stack | Links |
 | :--- | :--- | :--- | :---: |
-| **SecureChat** | Zero-knowledge real-time E2EE messaging platform with browser-side hybrid encryption | `Flask` `Socket.IO` `WebCrypto` `MongoDB` | [Live](https://secure-chat-e2e.vercel.app/) &bull; |
+| **SecureChat** | Zero-knowledge real-time E2EE messaging platform with browser-side hybrid encryption | `Flask` `Socket.IO` `WebCrypto` `MongoDB` | [Live](https://secure-chat-e2e.vercel.app/) |
 | **AI-RSS** | Full-stack recruitment platform with an NLP microservice for semantic candidate matching | `React` `Node.js` `Flask` `scikit-learn` | [Code](https://github.com/shiva272153/AI-RSS) |
 | **MediPredict AI** | Clinical risk prediction engine with standardized preprocessing and model serialization | `Python` `Flask` `scikit-learn` `Pandas` | [Code](https://github.com/shiva272153/MediPredict-AI/) |
 
